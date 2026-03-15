@@ -14,5 +14,6 @@ Student={
     }
     
 }
-print(Student["subject"])
-print(Student) 
+print(list(Student.values()))
+print(list(Student.items()))
+print((Student.get("key")))
