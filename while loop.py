@@ -1,5 +1,4 @@
-num=1
-while num<=3:
-    name=input("enter your name")
-    print("hello", name)
-    num+=1
+i=1
+while i<=100000:
+    print(i)
+    i+=1
