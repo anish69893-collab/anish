@@ -1,0 +1,4 @@
+collection={1,2,2,2,4,4,5,7, "hello","hello","world","world",}
+print(collection)
+print(type(collection))
+print(len(collection))
