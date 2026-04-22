@@ -2,16 +2,16 @@
 num_str = "10"
 num_int=int(num_str)
 print(num_int)
-print(type(num_str))
+print(type(10))
 
 #convert int to string
 num=35
 num_str=str(num)
 print(num_str)
-print(type(num_str))
+print(type(35))
 
 #convert float to int 
 pi=3.89
 pi_int=int(pi)
 print(pi_int)
-print(type(pi_int))
+print(type(3.89))
