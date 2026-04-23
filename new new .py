@@ -1,0 +1,5 @@
+print("hello\nworld")
+print("hello\tworld")
+print("hello\\wprld")
+print("hello\"world")
+print("hello\'world")
