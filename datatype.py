@@ -1,0 +1,9 @@
+name="Anish"
+age=20
+price=33.8
+print(name)
+print(age)
+print(price)
+print(type(name))
+print(type(age))
+print(type(price))
