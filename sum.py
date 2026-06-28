@@ -1,0 +1,12 @@
+a=70
+b=60
+c=45
+d=34
+sum=a+b+c+d
+print(sum)
+mult=(a*b*c*d)
+print(mult)
+div=(a/b/c/d)
+print(div)
+sub=(a-b-c-d)
+print(sub)
