@@ -1,0 +1,9 @@
+str1= "this is a string.\nwe are creating it in python."
+print(str1)
+print(len(str1))
+str2="this is a apple.\t apple colour is red."
+print(str2)
+print(len(str2))
+print(type(str1))
+print(type(str2))
+print(str1+str2)
