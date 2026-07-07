@@ -1,0 +1,10 @@
+student=()
+student_1st=input("Enter  1st student name:")
+student_2nd=input("Enter 2nd student name:")
+student_3rd=input("Enter 3rd student name:")
+print(student.append("student 1st"))
+print(student.append("student 2nd"))
+print(student.append("student 3rd"))
+print(student)
+print(type(student))
+      

@@ -1,0 +1,10 @@
+list=["a","b","c","e","g","k","l","o",]
+print(type(list))
+print(list.append("z"))
+print(list.sort)
+print(list.sort(reverse=True))
+print(list.reverse)
+print(list[0])
+print(list[0:7])
+print(list[-7:-2])
+print(list.remove("e"))
