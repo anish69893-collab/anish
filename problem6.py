@@ -1,0 +1,5 @@
+name=str(input("enter your name"))
+print(f"Good   afternoon{name}")
+print(type(name))
+print(len(name))
+print(name.find("  "))
