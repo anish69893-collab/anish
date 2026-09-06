@@ -1,4 +1,10 @@
 def calc_avg(a,b,c):
+    if a>b and a>c:
+        print(a,"greater")
+    elif b>a and b>c:
+        print(b," greater")
+    else:
+        print(c,"greater")
     Gmean=(a+b+c)/(a*b*c)
     avg=Gmean/8
     print(avg)
