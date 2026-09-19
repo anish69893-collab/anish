@@ -1,0 +1,7 @@
+Hello Python
+File Handling Example
+Apple
+Banana
+Mango
+Orange
+New Line
