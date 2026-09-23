@@ -1,9 +1,10 @@
+
 '''
 1 for sanke
 -1 for water
 0 for gun
 '''
-computer=-1
+computer= -1
 youstr=input("Enter your choice:").lower()
 youDict={"s": 1, "w":-1,"g":0}
 reverseDict={1:"Sanke",-1:"Water",0:"Gun"}
